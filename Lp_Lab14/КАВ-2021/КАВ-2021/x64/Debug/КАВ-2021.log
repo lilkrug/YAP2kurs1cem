@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  Error.cpp
+  In.cpp
+E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\КАВ-2021\In.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  IT.cpp
+  Lex.cpp
+E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\КАВ-2021\In.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\КАВ-2021\Lex.cpp(111,7): warning C4312: приведение типов: преобразование из "_Ty" в "const char *" большего размера
+          with
+          [
+              _Ty=int
+          ]
+  Log.cpp
+E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\КАВ-2021\In.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  LT.cpp
+E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\КАВ-2021\LT.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Parm.cpp
+  КАВ-2021.cpp
+E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\КАВ-2021\In.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  КАВ-2021.vcxproj -> E:\Education\YAP3cem\Lp_Lab14\КАВ-2021\x64\Debug\КАВ-2021.exe

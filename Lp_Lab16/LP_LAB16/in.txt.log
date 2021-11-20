@@ -1,0 +1,52 @@
+Тест: без ошибок 
+
+----------- ПРОТОКОЛ -----------
+ ----------- 12.11.21 20:41:49 -----------
+ 
+ ----------- ПАРАМЕТРЫ ----------- 
+
+-in: E:\Education\YAP3cem\Lp_Lab16\LP_LAB16\in.txt
+-out: E:\Education\YAP3cem\Lp_Lab16\LP_LAB16\in.txt.out
+-log: E:\Education\YAP3cem\Lp_Lab16\LP_LAB16\in.txt.log
+
+----------- ИСХОДНЫЕ ДАННЫЕ -----------
+1	integer function fi(integer x, integer y)
+2	{
+3	declare integer z;
+4	z=(y*45)+234/(x*(x+y)) * 34/45;
+5	return z;
+6	};
+7	string function fs (string a, string b)
+8	{
+9	declare string c                 ; 
+10	declare string function substr(string a, integer p,
+11	 integer n);
+12	c = substr(a, 1,3)+ b;
+13	return c;
+14	};
+15	
+16	
+17	main
+18	{
+19	declare integer x;
+20	declare integer y;
+21	declare integer z;
+22	declare string sa;
+23	declare string sb;
+24	declare string sc;
+25	declare integer function strlen(string p);
+26	x = 1;
+27	y = 5;
+28	sa = '1234567890';
+29	sb = '1234567890';
+30	z = fi();
+31	sc = fs(sa,sb);
+32	print 'контр          ольный пр   имер';
+33	print z;
+34	print sc;
+35	return 0;
+36	};
+
+Всего символов: 603
+Всего строк: 36
+Пропущено: 0

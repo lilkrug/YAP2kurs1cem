@@ -1,0 +1,15 @@
+#pragma once
+#include <cstring>
+#include <fstream>
+#include <iostream>
+#include <vector>
+#include <stack>
+#include <regex>
+#include <ctime>
+#include <cstring>
+#include <locale>
+#include <string>
+#include <memory>
+#include <array>
+#include <sstream>
+#include <iomanip>

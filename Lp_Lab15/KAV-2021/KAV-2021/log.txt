@@ -1,0 +1,117 @@
+------ Протокол ------
+Дата: 11.10.2021 11:32:39  
+
+------ Параметры ------
+-in:in.txt
+-out:in.txt.out
+-log:log.txt
+
+------ Исходные данные ------
+Количество символов: 569
+Проигнарировано: 35
+Количество строк: 36
+
+------------Таблица лексем-------------
+p2;
+nfi(ni,ni){dni;
+i=i*(i+i);
+ri;
+};
+sfi(si,si){dsi;
+dsfc(si,ni,ni);
+i=c(i,1,1)+i;
+ri;
+};
+m{dni;
+dni;
+dni;
+dsi;
+dsi;
+dsi;
+dnc(si);
+i=1;
+i=1;
+i=2;
+i=2;
+i=i(i,i);
+i=i(i,i);
+p2;
+pi;
+pi;
+pc(i);
+r1;
+};
+---------------------------------------
+index      name      type   id type      lexTable index
+    0        L0      str         l               1
+    1        fi      int         f               5
+    2         x      int         p               8
+    3         y      int         p              11
+    4         z      int         v              16
+    5        fs      str         f              35
+    6         a      str         p              38
+    7         b      str         p              41
+    8         c      str         p              46
+    9         p      int         p              57
+   10         n      int         p              60
+   11        L1      int         l              69
+   12        L2      int         l              71
+   13        sa      str         p              97
+   14        sb      str         p             101
+   15        sc      str         p             105
+   16        L3      int         l             117
+   17        L4      int         l             121
+   18        L5      str         l             125
+   19        L6      int         l             165
+------------Таблица лексем-------------
+p2;
+nfi(ni,ni){dni;
+i=iii+*;
+ri;
+};
+sfi(si,si){dsi;
+dsfc(si,ni,ni);
+i=c(i,1,1)i+;
+ri;
+};
+m{dni;
+dni;
+dni;
+dsi;
+dsi;
+dsi;
+dnc(si);
+i=1;
+i=1;
+i=2;
+i=2;
+i=i(i,i);
+i=i(i,i);
+p2;
+pi;
+pi;
+pc(i);
+r1;
+};
+НН---------------------------------------
+index      name      type   id type      lexTable index
+    0        L0      str         l               1
+    1        fi      int         f               5
+    2         x      int         p               8
+    3         y      int         p              11
+    4         z      int         v              16
+    5        fs      str         f              35
+    6         a      str         p              38
+    7         b      str         p              41
+    8         c      str         p              46
+    9         p      int         p              57
+   10         n      int         p              60
+   11        L1      int         l              69
+   12        L2      int         l              71
+   13        sa      str         p              97
+   14        sb      str         p             101
+   15        sc      str         p             105
+   16        L3      int         l             117
+   17        L4      int         l             121
+   18        L5      str         l             125
+   19        L6      int         l             165
